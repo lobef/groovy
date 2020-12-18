@@ -1,4 +1,4 @@
-package agroovy.styleguide.devkit
+package styleguide.devkit
 
 import org.junit.Test
 

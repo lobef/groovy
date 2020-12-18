@@ -1,4 +1,4 @@
-package agroovy.languagespecification.closures
+package languagespecification.closures
 
 import org.junit.Test
 
